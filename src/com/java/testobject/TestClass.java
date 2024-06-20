@@ -10,7 +10,7 @@ public class TestClass {
 	}
 	
 	
-	protected static int add() {
+	public static int add() {
 		
 		int a,b,c;
 		Scanner scanner=new Scanner(System.in);  // 
